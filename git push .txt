@@ -11,3 +11,6 @@ git add app-im****.apk
 git commit "apk file"
 
 git push
+
+
+git remote 
